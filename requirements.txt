@@ -1,5 +1,5 @@
-streamlit==1.27.0
-pillow==9.5.0
-tensorflow==2.20.0
-numpy>=1.26.0
-rich==13.3.5
+streamlit
+pillow
+tensorflow
+numpy
+rich
